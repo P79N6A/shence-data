@@ -1,1 +1,2 @@
-# DS501-TRACK3
+# sensor_capstone
+capstone project using sensor data with python
